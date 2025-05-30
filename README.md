@@ -3,6 +3,9 @@
 
 A simple web application that allows users to convert units of measurement for temperature, weight, and distance.
 
+![image](https://github.com/user-attachments/assets/d7b07528-c598-4d78-91e1-f3e9b4917667)
+
+
 ## Features
 
 * Temperature conversion: Celsius to Fahrenheit
